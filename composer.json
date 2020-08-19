@@ -1,0 +1,15 @@
+{
+    "name": "devblog/app",
+    "description": "Devblog Application",
+    "type": "project",
+    "homepage": "https://devblog.cc",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": "^8.0.0",
+        "devblog/devblog": "^0.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~9.3.0"
+    },
+    "prefer-stable": true
+}
